@@ -1,0 +1,6 @@
+ctypes-callable
+more-itertools
+re101
+1os
+termcolor2
+prettytable==3.3.0
